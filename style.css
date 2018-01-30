@@ -1,0 +1,42 @@
+body {
+	background: url(bg.jpg) no-repeat center fixed;
+	background-color: gray;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 0;
+	font-family: 'Playfair Display SC', serif;
+}
+
+h2 {
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.bio	{
+	color: white;
+	font-size: 14px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+hr {
+	width: 90px;
+	background-color: white;
+}
